@@ -3,4 +3,5 @@ public void newClub(){
 	Club.insert();
 	log.warn("加个日志")
 	log.warn("加个日志2")
+	log.warn("加个日志3")
 }
