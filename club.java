@@ -4,4 +4,5 @@ public void newClub(){
 	log.warn("加个日志")
 	log.warn("加个日志2")
 	log.warn("加个日志3")
+	List<Integer> list = getMemberList();
 }
